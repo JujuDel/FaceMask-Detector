@@ -1,0 +1,6 @@
+[submodule "yolov4-pytorch"]
+	path = yolov4-pytorch
+	url = https://github.com/bubbliiiing/yolov4-pytorch
+[submodule "yolo3-pytorch"]
+	path = yolo3-pytorch
+	url = https://github.com/bubbliiiing/yolo3-pytorch
